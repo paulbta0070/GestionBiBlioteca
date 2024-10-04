@@ -20,7 +20,7 @@ public class Actividad2SistemaGestionBiblioteca {
         int opcion;
         do {
             System.out.println("======================================");
-            System.out.println(" Nombre: Christian                    ");
+            System.out.println(" Nombre:                              ");
             System.out.println(" Cedula:                              ");
             System.out.println("   SISTEMA DE GESTION DE BIBLIOTECAS  ");
             System.out.println("======================================");
