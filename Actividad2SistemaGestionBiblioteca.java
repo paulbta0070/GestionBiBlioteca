@@ -20,8 +20,8 @@ public class Actividad2SistemaGestionBiblioteca {
         int opcion;
         do {
             System.out.println("======================================");
-            System.out.println(" Nombre: Christian Paul Perez Wilches  ");
-            System.out.println(" Cedula: 80055860                     ");
+            System.out.println(" Nombre: Christian                    ");
+            System.out.println(" Cedula:                              ");
             System.out.println("   SISTEMA DE GESTION DE BIBLIOTECAS  ");
             System.out.println("======================================");
             System.out.println("1. Agregar Libro");
